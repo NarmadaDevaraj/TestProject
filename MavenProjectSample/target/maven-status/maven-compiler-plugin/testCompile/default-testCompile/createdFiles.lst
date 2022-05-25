@@ -1,0 +1,14 @@
+PageObjects\UpdateContactInfo.class
+StepDefinitions\StepOpenNewAccount.class
+StepDefinitions\StepLoginPage.class
+PageObjects\BillPay.class
+StepDefinitions\StepTransferFund.class
+PageObjects\LoginPage.class
+PageObjects\ParaBankAccountOverview.class
+TestRunner\Runner.class
+Hooks\ProjectConfiguration.class
+PageObjects\NewAccount.class
+StepDefinitions\AbstractPageStepDefinition.class
+StepDefinitions\StepUpdateContactInfo.class
+PageObjects\TransferFund.class
+StepDefinitions\StepBillPay.class

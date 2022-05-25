@@ -1,0 +1,265 @@
+2022-05-24 09:52:35.399 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 09:53:00.192 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:05:53.419 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:06:19.893 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:06:34.528 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeName(BillPay.java:119)] - Error msg verified successfully for empty payee Name
+2022-05-24 10:06:34.575 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAddress(BillPay.java:125)] - Error msg verified successfully for empty payee Address
+2022-05-24 10:06:34.617 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeCity(BillPay.java:131)] - Error msg verified successfully for empty payee City
+2022-05-24 10:06:34.653 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeState(BillPay.java:137)] - Error msg verified successfully for empty payee State
+2022-05-24 10:06:34.700 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeZipCode(BillPay.java:143)] - Error msg verified successfully for empty payee zip code
+2022-05-24 10:06:34.743 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeePhoneNumber(BillPay.java:149)] - Error msg verified successfully for empty payee Phone number
+2022-05-24 10:06:34.784 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAccountId(BillPay.java:155)] - Error msg verified successfully for empty payee Account ID
+2022-05-24 10:06:34.816 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeVerifyAccountID(BillPay.java:161)] - Error msg verified successfully for empty payee Verify account Id
+2022-05-24 10:06:34.845 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAmount(BillPay.java:167)] - Error msg verified successfully for empty payee amount
+2022-05-24 10:42:24.915 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:42:52.270 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:43:11.352 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeName(BillPay.java:124)] - Error msg verified successfully for empty payee Name
+2022-05-24 10:43:11.398 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAddress(BillPay.java:130)] - Error msg verified successfully for empty payee Address
+2022-05-24 10:43:11.442 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeCity(BillPay.java:136)] - Error msg verified successfully for empty payee City
+2022-05-24 10:43:11.489 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeState(BillPay.java:142)] - Error msg verified successfully for empty payee State
+2022-05-24 10:43:11.536 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeZipCode(BillPay.java:148)] - Error msg verified successfully for empty payee zip code
+2022-05-24 10:43:11.585 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeePhoneNumber(BillPay.java:154)] - Error msg verified successfully for empty payee Phone number
+2022-05-24 10:43:11.621 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAccountId(BillPay.java:160)] - Error msg verified successfully for empty payee Account ID
+2022-05-24 10:43:11.655 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeVerifyAccountID(BillPay.java:166)] - Error msg verified successfully for empty payee Verify account Id
+2022-05-24 10:43:11.682 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAmount(BillPay.java:172)] - Error msg verified successfully for empty payee amount
+2022-05-24 10:43:13.479 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:46:35.871 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:47:04.959 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:47:20.362 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeName(BillPay.java:124)] - Error msg verified successfully for empty payee Name
+2022-05-24 10:47:20.404 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAddress(BillPay.java:130)] - Error msg verified successfully for empty payee Address
+2022-05-24 10:47:20.453 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeCity(BillPay.java:136)] - Error msg verified successfully for empty payee City
+2022-05-24 10:47:20.503 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeState(BillPay.java:142)] - Error msg verified successfully for empty payee State
+2022-05-24 10:47:20.547 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeZipCode(BillPay.java:148)] - Error msg verified successfully for empty payee zip code
+2022-05-24 10:47:20.592 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeePhoneNumber(BillPay.java:154)] - Error msg verified successfully for empty payee Phone number
+2022-05-24 10:47:20.616 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAccountId(BillPay.java:160)] - Error msg verified successfully for empty payee Account ID
+2022-05-24 10:47:20.649 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeVerifyAccountID(BillPay.java:166)] - Error msg verified successfully for empty payee Verify account Id
+2022-05-24 10:47:20.679 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAmount(BillPay.java:172)] - Error msg verified successfully for empty payee amount
+2022-05-24 10:47:22.428 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 10:47:40.887 INFO [main] [PageObjects.BillPay.verifyInvalidAccountErrorMsg(BillPay.java:178)] - Error msg verified successfully for invalid payee account number
+2022-05-24 10:47:40.926 INFO [main] [PageObjects.BillPay.verifyMismatchVerifyAccountErrorMsg(BillPay.java:185)] - Error msg verified successfully for invalid payee account and wrong verify account number
+2022-05-24 10:47:41.439 INFO [main] [PageObjects.BillPay.verifyInvalidAccountErrorMsg(BillPay.java:178)] - Error msg verified successfully for invalid payee account number
+2022-05-24 10:47:41.476 INFO [main] [PageObjects.BillPay.verifyInvalidVerifyAccountErrorMsg(BillPay.java:192)] - Error msg verified successfully for invalid payee account and wrong verify account number
+2022-05-24 11:28:02.323 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 11:28:30.447 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 11:28:46.956 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeName(BillPay.java:124)] - Error msg verified successfully for empty payee Name
+2022-05-24 11:28:47.002 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAddress(BillPay.java:130)] - Error msg verified successfully for empty payee Address
+2022-05-24 11:28:47.052 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeCity(BillPay.java:136)] - Error msg verified successfully for empty payee City
+2022-05-24 11:28:47.096 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeState(BillPay.java:142)] - Error msg verified successfully for empty payee State
+2022-05-24 11:28:47.147 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeZipCode(BillPay.java:148)] - Error msg verified successfully for empty payee zip code
+2022-05-24 11:28:47.187 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeePhoneNumber(BillPay.java:154)] - Error msg verified successfully for empty payee Phone number
+2022-05-24 11:28:47.225 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAccountId(BillPay.java:160)] - Error msg verified successfully for empty payee Account ID
+2022-05-24 11:28:47.261 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeVerifyAccountID(BillPay.java:166)] - Error msg verified successfully for empty payee Verify account Id
+2022-05-24 11:28:47.288 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAmount(BillPay.java:172)] - Error msg verified successfully for empty payee amount
+2022-05-24 11:28:49.231 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 11:29:08.900 INFO [main] [PageObjects.BillPay.verifyInvalidAccountErrorMsg(BillPay.java:178)] - Error msg verified successfully for invalid payee account number
+2022-05-24 11:29:08.932 INFO [main] [PageObjects.BillPay.verifyMismatchVerifyAccountErrorMsg(BillPay.java:185)] - Error msg verified successfully for invalid payee account and wrong verify account number
+2022-05-24 11:29:09.295 INFO [main] [PageObjects.BillPay.verifyInvalidAccountErrorMsg(BillPay.java:178)] - Error msg verified successfully for invalid payee account number
+2022-05-24 11:29:09.322 INFO [main] [PageObjects.BillPay.verifyInvalidVerifyAccountErrorMsg(BillPay.java:192)] - Error msg verified successfully for invalid payee account and wrong verify account number
+2022-05-24 11:33:32.682 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 12:13:47.980 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 12:14:03.436 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:47)] - User typed customer name successfully
+2022-05-24 12:14:03.697 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:52)] - User typed customer last name successfully
+2022-05-24 12:16:03.789 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 12:16:20.112 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:47)] - User typed customer name successfully
+2022-05-24 12:16:20.345 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:52)] - User typed customer last name successfully
+2022-05-24 12:19:23.127 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 12:19:46.760 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:47)] - User typed customer name successfully
+2022-05-24 12:19:46.969 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:52)] - User typed customer last name successfully
+2022-05-24 12:19:47.232 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:57)] - User typed customer Address successfully
+2022-05-24 12:19:47.500 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:62)] - User typed customer City successfully
+2022-05-24 12:19:47.732 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:67)] - User typed customer state successfully
+2022-05-24 12:19:47.998 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:72)] - User typed customer Zip code successfully
+2022-05-24 12:19:48.209 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:77)] - User typed customer Zip code successfully
+2022-05-24 12:19:48.377 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:82)] - User successfully clicked on UpdateProfile button
+2022-05-24 12:59:52.849 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 13:00:09.787 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 13:00:10.076 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 13:00:10.326 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 13:00:10.573 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 13:00:10.821 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 13:00:11.073 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 13:00:11.318 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 13:00:11.456 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 13:00:22.165 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 13:06:38.461 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 13:06:59.005 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 13:06:59.238 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 13:06:59.471 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 13:06:59.723 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 13:06:59.954 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 13:07:00.206 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 13:07:00.451 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 13:07:00.581 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 13:07:11.232 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 13:10:45.987 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 13:11:01.170 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 13:12:17.984 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 13:12:33.889 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - Log is working properly
+2022-05-24 14:22:26.240 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:22:41.491 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 14:22:41.819 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 14:22:42.171 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 14:22:42.519 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 14:22:42.879 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 14:22:43.197 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 14:22:43.540 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 14:22:43.721 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 14:22:50.626 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:33:55.991 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:34:13.171 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 14:34:13.515 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 14:34:13.842 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 14:34:14.197 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 14:34:14.522 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 14:34:14.805 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 14:34:15.143 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 14:34:15.323 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 14:34:22.060 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:37:08.296 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:37:24.605 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 14:37:24.938 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 14:37:25.301 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 14:37:25.656 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 14:37:26.048 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 14:37:26.362 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 14:37:26.710 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 14:37:26.887 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 14:37:33.569 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:38:05.709 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCName(UpdateContactInfo.java:103)] - Error msg validated successfully for empty customer name
+2022-05-24 14:38:05.911 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCLName(UpdateContactInfo.java:112)] - Error msg validated successfully for empty customer last name
+2022-05-24 14:38:06.135 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddress(UpdateContactInfo.java:121)] - Error msg validated successfully for empty customer Address
+2022-05-24 14:38:06.355 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddCity(UpdateContactInfo.java:130)] - Error msg validated successfully for empty customer Address city
+2022-05-24 14:38:06.582 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddState(UpdateContactInfo.java:139)] - Error msg validated successfully for empty customer Address State
+2022-05-24 14:38:06.783 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCZipCode(UpdateContactInfo.java:149)] - Error msg validated successfully for empty customer Address zip code
+2022-05-24 14:38:06.996 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 14:38:35.055 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:38:55.588 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 14:38:55.922 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 14:38:56.233 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 14:38:56.598 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 14:38:56.923 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 14:38:57.267 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 14:38:57.595 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 14:38:57.793 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 14:39:04.477 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:42:38.160 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:43:56.429 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:48:46.260 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:49:06.026 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 14:49:06.348 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 14:49:06.732 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 14:49:07.032 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 14:49:07.365 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 14:49:07.708 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 14:49:08.014 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 14:49:08.192 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 14:49:14.943 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:49:55.031 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCName(UpdateContactInfo.java:103)] - Error msg validated successfully for empty customer name
+2022-05-24 14:49:55.237 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCLName(UpdateContactInfo.java:112)] - Error msg validated successfully for empty customer last name
+2022-05-24 14:49:55.440 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddress(UpdateContactInfo.java:121)] - Error msg validated successfully for empty customer Address
+2022-05-24 14:49:55.627 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddCity(UpdateContactInfo.java:130)] - Error msg validated successfully for empty customer Address city
+2022-05-24 14:49:55.798 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddState(UpdateContactInfo.java:139)] - Error msg validated successfully for empty customer Address State
+2022-05-24 14:49:55.973 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCZipCode(UpdateContactInfo.java:149)] - Error msg validated successfully for empty customer Address zip code
+2022-05-24 14:49:56.165 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 14:52:36.156 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:53:00.059 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 14:53:00.394 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 14:53:00.712 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 14:53:01.063 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 14:53:01.392 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 14:53:01.692 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 14:53:02.001 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 14:53:02.164 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 14:53:08.837 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 14:53:28.224 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCName(UpdateContactInfo.java:105)] - Error msg validated successfully for empty customer name
+2022-05-24 14:53:28.395 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCLName(UpdateContactInfo.java:118)] - Error msg validated successfully for empty customer last name
+2022-05-24 14:53:28.575 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddress(UpdateContactInfo.java:127)] - Error msg validated successfully for empty customer Address
+2022-05-24 14:53:28.746 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddCity(UpdateContactInfo.java:136)] - Error msg validated successfully for empty customer Address city
+2022-05-24 14:53:28.917 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddState(UpdateContactInfo.java:145)] - Error msg validated successfully for empty customer Address State
+2022-05-24 14:53:29.108 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCZipCode(UpdateContactInfo.java:155)] - Error msg validated successfully for empty customer Address zip code
+2022-05-24 14:53:29.326 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 15:26:08.928 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:26:32.895 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:26:48.508 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeName(BillPay.java:124)] - Error msg verified successfully for empty payee Name
+2022-05-24 15:26:48.539 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAddress(BillPay.java:130)] - Error msg verified successfully for empty payee Address
+2022-05-24 15:26:48.571 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeCity(BillPay.java:136)] - Error msg verified successfully for empty payee City
+2022-05-24 15:26:48.601 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeState(BillPay.java:142)] - Error msg verified successfully for empty payee State
+2022-05-24 15:26:48.637 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeZipCode(BillPay.java:148)] - Error msg verified successfully for empty payee zip code
+2022-05-24 15:26:48.664 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeePhoneNumber(BillPay.java:154)] - Error msg verified successfully for empty payee Phone number
+2022-05-24 15:26:48.690 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAccountId(BillPay.java:160)] - Error msg verified successfully for empty payee Account ID
+2022-05-24 15:26:48.703 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeVerifyAccountID(BillPay.java:166)] - Error msg verified successfully for empty payee Verify account Id
+2022-05-24 15:26:48.720 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAmount(BillPay.java:172)] - Error msg verified successfully for empty payee amount
+2022-05-24 15:26:50.191 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:27:07.342 INFO [main] [PageObjects.BillPay.verifyInvalidAccountErrorMsg(BillPay.java:178)] - Error msg verified successfully for invalid payee account number
+2022-05-24 15:27:07.375 INFO [main] [PageObjects.BillPay.verifyMismatchVerifyAccountErrorMsg(BillPay.java:185)] - Error msg verified successfully for invalid payee account and wrong verify account number
+2022-05-24 15:27:07.753 INFO [main] [PageObjects.BillPay.verifyInvalidAccountErrorMsg(BillPay.java:178)] - Error msg verified successfully for invalid payee account number
+2022-05-24 15:27:07.786 INFO [main] [PageObjects.BillPay.verifyInvalidVerifyAccountErrorMsg(BillPay.java:192)] - Error msg verified successfully for invalid payee account and wrong verify account number
+2022-05-24 15:27:09.271 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:27:23.743 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 15:27:23.970 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 15:27:24.188 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 15:27:24.427 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 15:27:24.642 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 15:27:24.860 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 15:27:25.080 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 15:27:25.218 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 15:27:35.892 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:27:54.907 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCName(UpdateContactInfo.java:105)] - Error msg validated successfully for empty customer name
+2022-05-24 15:27:55.031 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCLName(UpdateContactInfo.java:118)] - Error msg validated successfully for empty customer last name
+2022-05-24 15:27:55.161 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddress(UpdateContactInfo.java:127)] - Error msg validated successfully for empty customer Address
+2022-05-24 15:27:55.329 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddCity(UpdateContactInfo.java:136)] - Error msg validated successfully for empty customer Address city
+2022-05-24 15:27:55.457 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddState(UpdateContactInfo.java:145)] - Error msg validated successfully for empty customer Address State
+2022-05-24 15:27:55.596 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCZipCode(UpdateContactInfo.java:155)] - Error msg validated successfully for empty customer Address zip code
+2022-05-24 15:27:55.721 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 15:28:02.300 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:28:19.658 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:28:46.155 INFO [main] [PageObjects.NewAccount.accountTypeVerify(NewAccount.java:113)] - Account Type Verification done
+2022-05-24 15:28:52.207 INFO [main] [PageObjects.NewAccount.accountIdVerify(NewAccount.java:96)] - Account Id verification done
+2022-05-24 15:28:53.325 INFO [main] [PageObjects.NewAccount.clickOnGoButton(NewAccount.java:136)] - Transaction table msg verified Successfully:No transactions found.
+2022-05-24 15:28:54.823 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:29:26.228 INFO [main] [PageObjects.NewAccount.accountIdVerify(NewAccount.java:96)] - Account Id verification done
+2022-05-24 15:29:27.321 INFO [main] [PageObjects.NewAccount.clickOnGoButton(NewAccount.java:136)] - Transaction table msg verified Successfully:No transactions found.
+2022-05-24 15:29:28.836 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:35:06.405 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:35:32.216 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:35:46.541 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeName(BillPay.java:124)] - Error msg verified successfully for empty payee Name
+2022-05-24 15:35:46.584 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAddress(BillPay.java:130)] - Error msg verified successfully for empty payee Address
+2022-05-24 15:35:46.616 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeCity(BillPay.java:136)] - Error msg verified successfully for empty payee City
+2022-05-24 15:35:46.649 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeState(BillPay.java:142)] - Error msg verified successfully for empty payee State
+2022-05-24 15:35:46.678 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeZipCode(BillPay.java:148)] - Error msg verified successfully for empty payee zip code
+2022-05-24 15:35:46.711 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeePhoneNumber(BillPay.java:154)] - Error msg verified successfully for empty payee Phone number
+2022-05-24 15:35:46.735 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAccountId(BillPay.java:160)] - Error msg verified successfully for empty payee Account ID
+2022-05-24 15:35:46.769 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeVerifyAccountID(BillPay.java:166)] - Error msg verified successfully for empty payee Verify account Id
+2022-05-24 15:35:46.798 INFO [main] [PageObjects.BillPay.verifyErrorMsg_PayeeAmount(BillPay.java:172)] - Error msg verified successfully for empty payee amount
+2022-05-24 15:35:48.951 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:36:07.299 INFO [main] [PageObjects.BillPay.verifyInvalidAccountErrorMsg(BillPay.java:178)] - Error msg verified successfully for invalid payee account number
+2022-05-24 15:36:07.331 INFO [main] [PageObjects.BillPay.verifyMismatchVerifyAccountErrorMsg(BillPay.java:185)] - Error msg verified successfully for invalid payee account and wrong verify account number
+2022-05-24 15:36:07.863 INFO [main] [PageObjects.BillPay.verifyInvalidAccountErrorMsg(BillPay.java:178)] - Error msg verified successfully for invalid payee account number
+2022-05-24 15:36:07.902 INFO [main] [PageObjects.BillPay.verifyInvalidVerifyAccountErrorMsg(BillPay.java:192)] - Error msg verified successfully for invalid payee account and wrong verify account number
+2022-05-24 15:36:09.975 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:36:25.819 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerName(UpdateContactInfo.java:58)] - User typed customer name successfully
+2022-05-24 15:36:26.165 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerLName(UpdateContactInfo.java:63)] - User typed customer last name successfully
+2022-05-24 15:36:26.449 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerAddress(UpdateContactInfo.java:68)] - User typed customer Address successfully
+2022-05-24 15:36:26.797 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerCity(UpdateContactInfo.java:73)] - User typed customer City successfully
+2022-05-24 15:36:27.136 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerState(UpdateContactInfo.java:78)] - User typed customer state successfully
+2022-05-24 15:36:27.458 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerZipCode(UpdateContactInfo.java:83)] - User typed customer Zip code successfully
+2022-05-24 15:36:27.753 INFO [main] [PageObjects.UpdateContactInfo.typeCustomerPhoneNum(UpdateContactInfo.java:88)] - User typed customer Zip code successfully
+2022-05-24 15:36:27.966 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 15:36:35.125 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:36:54.767 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCName(UpdateContactInfo.java:105)] - Error msg validated successfully for empty customer name
+2022-05-24 15:36:54.940 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCLName(UpdateContactInfo.java:118)] - Error msg validated successfully for empty customer last name
+2022-05-24 15:36:55.105 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddress(UpdateContactInfo.java:127)] - Error msg validated successfully for empty customer Address
+2022-05-24 15:36:55.264 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddCity(UpdateContactInfo.java:136)] - Error msg validated successfully for empty customer Address city
+2022-05-24 15:36:55.453 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCAddState(UpdateContactInfo.java:145)] - Error msg validated successfully for empty customer Address State
+2022-05-24 15:36:55.657 INFO [main] [PageObjects.UpdateContactInfo.errorMsgValidationForEmptyCZipCode(UpdateContactInfo.java:155)] - Error msg validated successfully for empty customer Address zip code
+2022-05-24 15:36:55.861 INFO [main] [PageObjects.UpdateContactInfo.clickOnUpdateProfile(UpdateContactInfo.java:93)] - User successfully clicked on UpdateProfile button
+2022-05-24 15:37:03.045 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:37:20.460 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:37:46.206 INFO [main] [PageObjects.NewAccount.accountTypeVerify(NewAccount.java:113)] - Account Type Verification done
+2022-05-24 15:37:52.255 INFO [main] [PageObjects.NewAccount.accountIdVerify(NewAccount.java:96)] - Account Id verification done
+2022-05-24 15:37:53.515 INFO [main] [PageObjects.NewAccount.clickOnGoButton(NewAccount.java:136)] - Transaction table msg verified Successfully:No transactions found.
+2022-05-24 15:37:55.669 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 15:38:27.578 INFO [main] [PageObjects.NewAccount.accountIdVerify(NewAccount.java:96)] - Account Id verification done
+2022-05-24 15:38:28.785 INFO [main] [PageObjects.NewAccount.clickOnGoButton(NewAccount.java:136)] - Transaction table msg verified Successfully:No transactions found.
+2022-05-24 15:38:30.852 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
+2022-05-24 16:13:07.754 INFO [main] [StepDefinitions.StepLoginPage.user_launch_chrome_browser(StepLoginPage.java:35)] - User has been lanched the chrome successfully
